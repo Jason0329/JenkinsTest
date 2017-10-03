@@ -3425,6 +3425,7 @@ input[type="button"].btn-block {
 
 .btn-toolbar:after {
   clear: both;
+  display:table;
 }
 
 .btn-toolbar:before,
